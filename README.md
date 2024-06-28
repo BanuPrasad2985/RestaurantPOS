@@ -10,7 +10,7 @@ How to run the RestaurantPOS  Project
 6. Import rposystem.sql file(given inside the zip package in the Database file folder)
 7. Run the script http://localhost/RestaurantPOS
 
-For admin login use admin@mail.com and password is codeastro.com, For cashier login use cashier@mail.com andpassword is codeastro.com, You can update the customer mail and password in admin interface or you can create new user and login using it.
+For admin login use admin@mail.com and password is codeastro.com, For cashier login use cashier@mail.com and password is codeastro.com, You can update the customer mail and password in admin interface or you can create new user and login using it.
 
 
 
